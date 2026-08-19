@@ -1,0 +1,8 @@
+{
+  "name": "Remix Nexus Auction House",
+  "description": "A premium global auction marketplace for digital products and AI projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
